@@ -74,7 +74,7 @@ This application:
 ![News](assets/news.png)
 
 ### 🌐 Translation Feature
-![Translate](assets/translate.png)
+![Translate](assets/translated.png)
 
 ## ▶️ Run Locally
 ```bash
