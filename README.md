@@ -66,14 +66,15 @@ This application:
 ---
 
 ## 📸 Screenshots
-(Add screenshots here later)
 
----
+### 🏠 Home Page
+![Home](assets/home.png)
 
-## 🎥 Demo
-(Add demo video link here)
+### 📰 News Feed
+![News](assets/news.png)
 
----
+### 🌐 Translation Feature
+![Translate](assets/translate.png)
 
 ## ▶️ Run Locally
 ```bash
