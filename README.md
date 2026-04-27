@@ -65,17 +65,6 @@ This application:
 
 ---
 
-## 📸 Screenshots
-
-### 🏠 Home Page
-![Home](assets/home.png)
-
-### 📰 News Feed
-![News](assets/news.png)
-
-### 🌐 Translation Feature
-![Translate](assets/translated.png)
-
 ## ▶️ Run Locally
 ```bash
 pip install -r
