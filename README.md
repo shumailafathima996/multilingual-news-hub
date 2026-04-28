@@ -57,24 +57,29 @@ This application:
 4. Displays content in selected language using Streamlit UI  
 
 ---
-## Screenshots
+## 📸 Screenshots
 
-### Homepage
-![Home Screenshot](assets/home.png)
-
-
-### News Page
-![News Screenshot](assets/news.png)
-
-### Translated Page
-![Translated Screenshot](assets/translated.png)
+| Homepage | News Page | Translated Page |
+|----------|-----------|-----------------|
+| ![Home Screenshot](assets/home.png) | ![News Screenshot](assets/news.png) | ![Translated Screenshot](assets/translated.png) |
 
 ## 🌟 Key Highlights
 - Real-time multilingual translation  
 - Clean and interactive UI  
-- Scalable architecture for future AI features  
+- Scalable architecture for future AI features
 
 ---
+🚀 Future Enhancements
+- Add more languages (Arabic, Spanish, French)  
+- Integrate voice translation for accessibility  
+- AI‑powered summarization of long articles  
+- Mobile app version for wider reach
+    
+---
+👩‍💻 Author
+- Shumaila Fathima  
+ Contact: shumailafathima996@gmail.com
+
 
 ## ▶️ Run Locally
 ```bash
