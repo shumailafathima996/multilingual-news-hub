@@ -60,7 +60,8 @@ This application:
 ## Screenshots
 
 ### Homepage
-![Homepage Screenshot](assets/home.png)
+![Home Screenshot](assets/home.png)
+
 
 ### News Page
 ![News Screenshot](assets/news.png)
