@@ -57,6 +57,16 @@ This application:
 4. Displays content in selected language using Streamlit UI  
 
 ---
+## Screenshots
+
+### Homepage
+![Homepage Screenshot](assets/home.png)
+
+### News Page
+![News Screenshot](assets/news.png)
+
+### Translated Page
+![Translated Screenshot](assets/translated.png)
 
 ## 🌟 Key Highlights
 - Real-time multilingual translation  
