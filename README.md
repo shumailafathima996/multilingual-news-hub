@@ -69,14 +69,14 @@ This application:
 - Scalable architecture for future AI features
 
 ---
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 - Add more languages (Arabic, Spanish, French)  
 - Integrate voice translation for accessibility  
 - AI‑powered summarization of long articles  
 - Mobile app version for wider reach
     
 ---
-👩‍💻 Author
+## 👩‍💻 Author
 - Shumaila Fathima  
  Contact: shumailafathima996@gmail.com
 
